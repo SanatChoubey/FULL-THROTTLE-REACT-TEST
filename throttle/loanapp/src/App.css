@@ -1,0 +1,95 @@
+.App {
+  background-color: #33d9b2;
+  width: 100vw;
+  min-height: 100vh;
+  flex-direction: column;
+  display: flex;
+  justify-content: space-between;
+  
+}
+.Card{
+ box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+ width: 90vw;
+ border-radius: 10px;
+ height: 700px;
+ background-color: white;
+ margin: 12vh;
+}
+.identify{
+ width:200px;
+ height: 30px;
+ background-color: #fd79a8;
+ border-radius: 30px;
+ margin: 10px;
+ padding-left: 10px;
+
+
+}
+.textdec{
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+}
+.Nodisplay{
+ background-color:#74b9ff;
+ width: 80px;
+ height: 50px;
+ margin-left: 300px;
+ padding-left: 7px;
+ border-radius: 2px;
+ padding-top: 1px;
+
+}
+.identifys{
+  width:400px;
+  height: 30px;
+  background-color: #fd79a8;
+  border-radius: 30px;
+  margin-top: 150px;
+  margin-left: 10px;
+  padding-left: 10px;
+
+
+}
+
+.displaydata{
+
+ width: 1000px;
+ height: 300px;
+ margin-top: 150px;
+ margin-left: 20px;
+
+
+
+}
+.datahead{
+  padding-left: 30px;
+  width:300px;
+  height:50px;
+  
+}
+.datadistribute{
+ display: flex;
+ flex-direction: row;
+ width: 700px;
+ height: 250px;
+ justify-content: space-between;
+}
+.principle{
+ width:150px;
+ height: 150px;
+ background-color: #eb3b5a;
+ padding: 10px;
+}
+.intrest{
+  width:150px;
+  height: 150px;
+  background-color: #f7b731;
+  padding: 10px;
+}
+.rate{
+  width:150px;
+  height: 150px;
+  background-color: #20bf6b;
+  padding: 10px;
+}
